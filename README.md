@@ -1,40 +1,29 @@
-# PA-WEB
-#  Kebun Ndesa Samarinda
+#  Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
-# Deskripsi
-Kebun Ndesa merupakan sebuah website berbasis web yang dibuat untuk menampilkan suasana kebun dengan nuansa alami khas pedesaan di Samarinda. Website ini dirancang dengan tampilan modern dan dominasi warna hijau untuk memberikan kesan segar, nyaman, dan asri.
-
-Project ini dibuat sebagai bagian dari tugas mata kuliah Pemrograman Aplikasi Berbasis Web (PAB).
-
-# Latar Belakang
-Seiring berkembangnya teknologi, penyampaian informasi tidak hanya dilakukan secara langsung, tetapi juga melalui media digital seperti website. Oleh karena itu, dibuatlah website Kebun Ndesa sebagai media informasi yang dapat memberikan gambaran suasana kebun secara visual kepada pengguna.
+# Deskripsi Aplikasi
+Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda. Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait lokasi, fasilitas, harga tiket, jam operasional, serta aktivitas yang tersedia.
+Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promosi digital agar Kebun Ndesa lebih dikenal oleh masyarakat luas.
 
 # Tujuan
-Adapun tujuan dari pembuatan project ini adalah:
-- Mengimplementasikan pembelajaran HTML, CSS, dan JavaScript
-- Membuat tampilan website yang menarik dan user-friendly
-- Menyajikan informasi kebun dalam bentuk digital
-- Melatih kemampuan dalam desain UI/UX
+- Menyediakan informasi lengkap tentang Kebun Ndesa
+- Mempermudah akses informasi bagi pengunjung
+- Membantu promosi tempat wisata
+- Menyediakan fitur ulasan dan pemesanan
 
-# Fitur
-Website ini memiliki beberapa fitur utama:
-- Halaman utama (Homepage)
-- Tampilan galeri kebun
-- Navigasi menu sederhana
-- Desain bernuansa hijau alami
-- Tampilan responsive
+# Fitur Pengembangan
 
-# Teknologi yang di Gunakan
-- HTML
-- CSS
-- JavaScript
+# Role & Hak Akses
 
-# Struktur Folder
-Berikut struktur folder dalam project:
+# Fitur Aplikasi
 
+# Widget Yang Digunakan
 
+# Teknologi yang Digunakan
 
+# Package
 
-# Tampilan Website
-Berikut tampilan dari website Kebun Ndesa:
+# Struktur Folder Project
+
+# Hasil Website
+
 
