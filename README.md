@@ -260,21 +260,37 @@ project-root/
 
 ##   Tampilan Website
 
-### 🏠 Halaman Beranda  
+###  Halaman Beranda  
+
+<img width="1908" height="918" alt="image" src="https://github.com/user-attachments/assets/407869ef-7a30-42f6-887e-af75ffe9b442" />
+
+###   Halaman Wisata 
+
+<img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/0e9b71f8-b4c7-4289-a258-fc4e1c21d1f0" />
+
+###   Halaman Musim Buah  
+
+<img width="1909" height="917" alt="image" src="https://github.com/user-attachments/assets/1784e008-7342-4b30-84b2-67a97acd25f8" />
+
+<img width="1909" height="916" alt="image" src="https://github.com/user-attachments/assets/63d5b421-00fa-499c-84fd-94f840dba058" />
 
 
-### 🎣 Halaman Wisata  
-![Wisata](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/wisata.png)
+###   Halaman Event  
 
-### 🍉 Halaman Musim Buah  
-![Musim Buah](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/musimbuah.png)
+<img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/7c6df9d1-30ae-45ea-a6d7-d75042326c56" />
 
-### 🎉 Halaman Event  
-![Event](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/event.png)
 
-### 🖼️ Halaman Galeri  
-![Galeri](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/galeri.png)
+###   Halaman Galeri
 
-### 📞 Halaman Kontak  
-![Kontak](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/kontak.png)
+<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/ae5c34ac-42b2-4efd-a75d-5700b48a1aff" />
+
+<img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/86c5c0b6-b8ee-4adf-8328-9ec88da36a83" />
+
+
+###   Halaman Kontak  
+
+<img width="1909" height="912" alt="image" src="https://github.com/user-attachments/assets/62b03689-6bf3-4a3c-9a46-d061d21c739d" />
+
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/d310c267-ddee-4dff-a060-0070536ec96f" />
+
 
