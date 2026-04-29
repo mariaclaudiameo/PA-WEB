@@ -1,161 +1,216 @@
-#  Website Informasi Pemancingan Kebun Ndesa Tanah Merah
+# 🌿 Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
-# Deskripsi Website
-Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda. Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait lokasi, fasilitas, harga tiket, jam operasional, serta aktivitas yang tersedia.
+---
+
+## 📌 Deskripsi Website
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
+
+Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda.  
+
+Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait:
+- Lokasi  
+- Fasilitas  
+- Harga tiket  
+- Jam operasional  
+- Aktivitas yang tersedia  
+
 Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promosi digital agar Kebun Ndesa lebih dikenal oleh masyarakat luas.
 
-# Tujuan
-- Menyediakan informasi lengkap tentang Kebun Ndesa
-- Mempermudah akses informasi bagi pengunjung
-- Membantu promosi tempat wisata
-- Menyediakan fitur ulasan dan pemesanan
+</details>
 
-# Fitur Pengembangan
+---
 
-Website Informasi Pemancingan Kebun Ndesa Tanah Merah dikembangkan dengan beberapa fitur utama untuk mendukung kebutuhan pengguna dan admin, yaitu:
+## 🎯 Tujuan
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
-1. Sistem Informasi Berbasis Web
+- Menyediakan informasi lengkap tentang Kebun Ndesa  
+- Mempermudah akses informasi bagi pengunjung  
+- Membantu promosi tempat wisata  
+- Menyediakan fitur ulasan dan pemesanan  
 
-Website dapat diakses melalui browser sehingga memudahkan pengguna dalam memperoleh informasi kapan saja dan di mana saja selama terhubung dengan internet.
+</details>
 
-2. Tampilan Responsif
+---
 
-Website dirancang dengan tampilan yang sederhana dan responsif sehingga dapat diakses dengan baik melalui perangkat komputer maupun smartphone.
+## 🚀 Fitur Pengembangan
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
-3. Sistem Login Admin
+### 1. Sistem Informasi Berbasis Web
+Website dapat diakses melalui browser kapan saja dan di mana saja.
 
-Tersedia fitur login khusus admin yang digunakan untuk mengelola data pada website seperti informasi wisata, event, galeri, dan ulasan pengguna.
+<br>
 
-4. Sistem Pemesanan Tiket
+### 2. Tampilan Responsif
+Desain sederhana dan responsif untuk desktop & smartphone.
 
-Pengguna dapat melakukan pemesanan tiket wisata secara online melalui website dengan mengisi data diri yang diperlukan.
+<br>
 
-5. QR Code Tiket
+### 3. Sistem Login Admin
+Admin dapat mengelola data seperti wisata, event, galeri, dan ulasan.
 
-Setiap pemesanan tiket akan menghasilkan QR Code dan kode pemesanan yang digunakan untuk proses verifikasi saat pengunjung datang ke lokasi.
+<br>
 
-6. Manajemen Data oleh Admin
+### 4. Sistem Pemesanan Tiket
+Pengguna dapat melakukan pemesanan tiket secara online.
 
-Admin dapat melakukan:
+<br>
 
-- Menambah data
-- Mengedit data
-- Menghapus data
-pada informasi wisata, event, galeri, dan tiket.
+### 5. QR Code Tiket
+Setiap tiket memiliki QR Code untuk verifikasi saat datang.
 
-7. Fitur Ulasan Pengunjung
+<br>
 
-Pengguna dapat memberikan ulasan atau komentar mengenai pengalaman mereka setelah berkunjung ke Kebun Ndesa.
+### 6. Manajemen Data oleh Admin
+Admin dapat:
+- Menambah data  
+- Mengedit data  
+- Menghapus data  
 
-8. Informasi Musim Buah
+<br>
 
-Website menyediakan informasi mengenai musim buah yang sedang panen dalam bentuk kalender sehingga pengunjung dapat mengetahui waktu terbaik untuk berkunjung.
+### 7. Fitur Ulasan Pengunjung
+Pengunjung dapat memberikan komentar atau pengalaman.
 
-# Role & Hak Akses
-1. User (Pengunjung)
+<br>
 
-User merupakan pengunjung website yang dapat mengakses informasi yang tersedia pada website.
+### 8. Informasi Musim Buah
+Tersedia kalender panen buah.
 
-Hak Akses:
+</details>
 
-- Melihat informasi Kebun Ndesa
-- Melihat fasilitas yang tersedia
-- Melihat harga tiket
-- Melihat musim buah
-- Melihat event
-- Melihat galeri
-- Mengisi ulasan
-- Melakukan pemesanan tiket
-  
-2. Admin
+---
 
-Admin memiliki akses khusus untuk mengelola seluruh data pada website.
+## 👥 Role & Hak Akses
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
-Hak Akses:
+### 👤 User (Pengunjung)
 
-- Login ke sistem
-- Menambah data informasi
-- Mengedit data
-- Menghapus data
-- Mengelola ulasan pengunjung
-- Mengelola data tiket dan fasilitas
+Hak akses:
+- Melihat informasi Kebun Ndesa  
+- Melihat fasilitas  
+- Melihat harga tiket  
+- Melihat musim buah  
+- Melihat event  
+- Melihat galeri  
+- Mengisi ulasan  
+- Melakukan pemesanan tiket  
 
-# Fitur Website  
+<br>
 
-1. Beranda
-   
-Menu Beranda merupakan halaman utama website yang menampilkan informasi singkat mengenai Kebun Ndesa. Pada halaman ini pengguna dapat melihat gambaran umum terkait tempat wisata serta navigasi menuju menu lainnya.
+### 🛠️ Admin
 
-Fungsi:
-- Menampilkan informasi umum Kebun Ndesa
-- Navigasi ke halaman lain
+Hak akses:
+- Login ke sistem  
+- Menambah data  
+- Mengedit data  
+- Menghapus data  
+- Mengelola ulasan  
+- Mengelola tiket & fasilitas  
 
-2. Wisata
-   
-Menu Wisata berisi daftar wisata yang tersedia di Kebun Ndesa beserta harga tiket masing-masing tempat wisata. Pada halaman ini juga terdapat paket bundling bagi pengunjung yang ingin memilih lebih dari satu wisata.
+</details>
 
-Fungsi:
-- Menampilkan daftar wisata
-- Menampilkan harga tiket
-- Paket bundling
-- Pemesanan tiket
+---
 
-3. Musim Buah
-   
-Menu ini menampilkan informasi buah yang sedang panen dalam bentuk kalender.
+## 🧩 Fitur Website
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
-Fungsi:
-- Informasi musim buah
-- Kalender panen
+### 🏠 Beranda
+- Informasi umum Kebun Ndesa  
+- Navigasi ke halaman lain  
 
-4. Event
-   
-Menu ini menampilkan kegiatan yang sedang berlangsung.
+<br>
 
-Fungsi:
-- Informasi event
-- Detail event
-- Pendaftaran event
+### 🎣 Wisata
+- Daftar wisata  
+- Harga tiket  
+- Paket bundling  
+- Pemesanan tiket  
 
-5. Galeri
-   
-Menu ini menampilkan dokumentasi foto Kebun Ndesa.
+<br>
 
-Fungsi:
-- Menampilkan foto lokasi
+### 🍉 Musim Buah
+- Informasi buah panen  
+- Kalender panen  
 
-6. Kontak
-   
-Menu ini berisi informasi pengelola dan form ulasan.
+<br>
 
-Fungsi:
-- Informasi kontak
-- Form ulasan
+### 🎉 Event
+- Informasi event  
+- Detail event  
+- Pendaftaran event  
 
+<br>
 
+### 🖼️ Galeri
+- Dokumentasi foto  
 
-# Widget Yang Digunakan
+<br>
 
-- Navbar
-- Card
-- Form Input
-- Button
-- Image Gallery
-- QR Code Generator
-- Kalender (Calendar Widget)
+### 📞 Kontak
+- Informasi pengelola  
+- Form ulasan  
 
-# Teknologi yang Digunakan
+</details>
 
-- HTML 
-- CSS
-- JavaScript 
-- PHP 
-- MySQL
+---
 
-# Package 
+## 🧱 Widget Yang Digunakan
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
-# Struktur Folder Project
+- Navbar  
+- Card  
+- Form Input  
+- Button  
+- Image Gallery  
+- QR Code Generator  
+- Calendar Widget  
 
+</details>
+
+---
+
+## 💻 Teknologi yang Digunakan
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
+
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
+
+</details>
+
+---
+
+## 📦 Package
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
+
+*(Tambahkan jika ada, contoh: Bootstrap, jQuery, dll)*
+
+</details>
+
+---
+
+## 📁 Struktur Folder Project
+<details>
+<summary>Klik untuk lihat detail</summary>
+<br>
 
 ```bash
 project-root/
@@ -191,10 +246,3 @@ project-root/
 └── includes/                 
     ├── header.php
     └── footer.php
-```
-
-# Hasil Website
-
-
-
-
