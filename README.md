@@ -221,8 +221,7 @@ Hak akses:
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
-
-```bash
+    
 project-root/
 │
 ├── index.php                 
@@ -262,20 +261,20 @@ project-root/
 ##   Tampilan Website
 
 ### 🏠 Halaman Beranda  
-![Beranda](assets/images/beranda.png)
+
 
 ### 🎣 Halaman Wisata  
-![Wisata](assets/images/wisata.png)
+![Wisata](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/wisata.png)
 
 ### 🍉 Halaman Musim Buah  
-![Musim Buah](assets/images/musimbuah.png)
+![Musim Buah](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/musimbuah.png)
 
 ### 🎉 Halaman Event  
-![Event](assets/images/event.png)
+![Event](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/event.png)
 
 ### 🖼️ Halaman Galeri  
-![Galeri](assets/images/galeri.png)
+![Galeri](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/galeri.png)
 
 ### 📞 Halaman Kontak  
-![Kontak](assets/images/kontak.png)
+![Kontak](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/kontak.png)
 
