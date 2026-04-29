@@ -10,18 +10,6 @@ Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promos
 - Membantu promosi tempat wisata
 - Menyediakan fitur ulasan dan pemesanan
 
-#  Website Informasi Pemancingan Kebun Ndesa Tanah Merah
-
-# Deskripsi Website
-Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda. Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait lokasi, fasilitas, harga tiket, jam operasional, serta aktivitas yang tersedia.
-Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promosi digital agar Kebun Ndesa lebih dikenal oleh masyarakat luas.
-
-# Tujuan
-- Menyediakan informasi lengkap tentang Kebun Ndesa
-- Mempermudah akses informasi bagi pengunjung
-- Membantu promosi tempat wisata
-- Menyediakan fitur ulasan dan pemesanan
-
 # Fitur Pengembangan
 
 Website Informasi Pemancingan Kebun Ndesa Tanah Merah dikembangkan dengan beberapa fitur utama untuk mendukung kebutuhan pengguna dan admin, yaitu:
@@ -167,6 +155,43 @@ Fungsi:
 # Package 
 
 # Struktur Folder Project
+
+
+```bash
+project-root/
+│
+├── index.php                 
+│
+├── assets/                   
+│   ├── css/                  
+│   ├── js/                 
+│   └── images/               
+│
+├── pages/                    
+│   ├── wisata.php
+│   ├── musimbuah.php
+│   ├── event.php
+│   ├── galeri.php
+│   └── kontak.php
+│
+├── admin/                   
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── kelola_wisata.php
+│   ├── kelola_event.php
+│   ├── kelola_galeri.php
+│   └── kelola_ulasan.php
+│
+├── config/                  
+│   └── koneksi.php
+│
+├── database/               
+│   └── db.sql
+│
+└── includes/                 
+    ├── header.php
+    └── footer.php
+```
 
 # Hasil Website
 
