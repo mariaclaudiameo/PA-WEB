@@ -1,6 +1,6 @@
 #  Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
-# Deskripsi Aplikasi
+# Deskripsi Website
 Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda. Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait lokasi, fasilitas, harga tiket, jam operasional, serta aktivitas yang tersedia.
 Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promosi digital agar Kebun Ndesa lebih dikenal oleh masyarakat luas.
 
@@ -12,7 +12,7 @@ Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promos
 
 #  Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
-# Deskripsi Aplikasi
+# Deskripsi Website
 Website Informasi Pemancingan Kebun Ndesa Tanah Merah merupakan sebuah website yang dibuat untuk memberikan informasi lengkap mengenai tempat wisata pemancingan yang berada di Tanah Merah, Samarinda. Website ini bertujuan untuk mempermudah masyarakat dalam memperoleh informasi terkait lokasi, fasilitas, harga tiket, jam operasional, serta aktivitas yang tersedia.
 Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promosi digital agar Kebun Ndesa lebih dikenal oleh masyarakat luas.
 
@@ -24,9 +24,75 @@ Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promos
 
 # Fitur Pengembangan
 
-# Role & Hak Akses
+Website Informasi Pemancingan Kebun Ndesa Tanah Merah dikembangkan dengan beberapa fitur utama untuk mendukung kebutuhan pengguna dan admin, yaitu:
 
-# Fitur Aplikasi
+1. Sistem Informasi Berbasis Web
+
+Website dapat diakses melalui browser sehingga memudahkan pengguna dalam memperoleh informasi kapan saja dan di mana saja selama terhubung dengan internet.
+
+2. Tampilan Responsif
+
+Website dirancang dengan tampilan yang sederhana dan responsif sehingga dapat diakses dengan baik melalui perangkat komputer maupun smartphone.
+
+3. Sistem Login Admin
+
+Tersedia fitur login khusus admin yang digunakan untuk mengelola data pada website seperti informasi wisata, event, galeri, dan ulasan pengguna.
+
+4. Sistem Pemesanan Tiket
+
+Pengguna dapat melakukan pemesanan tiket wisata secara online melalui website dengan mengisi data diri yang diperlukan.
+
+5. QR Code Tiket
+
+Setiap pemesanan tiket akan menghasilkan QR Code dan kode pemesanan yang digunakan untuk proses verifikasi saat pengunjung datang ke lokasi.
+
+6. Manajemen Data oleh Admin
+
+Admin dapat melakukan:
+
+- Menambah data
+- Mengedit data
+- Menghapus data
+pada informasi wisata, event, galeri, dan tiket.
+
+7. Fitur Ulasan Pengunjung
+
+Pengguna dapat memberikan ulasan atau komentar mengenai pengalaman mereka setelah berkunjung ke Kebun Ndesa.
+
+8. Informasi Musim Buah
+
+Website menyediakan informasi mengenai musim buah yang sedang panen dalam bentuk kalender sehingga pengunjung dapat mengetahui waktu terbaik untuk berkunjung.
+
+# Role & Hak Akses
+1. User (Pengunjung)
+
+User merupakan pengunjung website yang dapat mengakses informasi yang tersedia pada website.
+
+Hak Akses:
+
+- Melihat informasi Kebun Ndesa
+- Melihat fasilitas yang tersedia
+- Melihat harga tiket
+- Melihat musim buah
+- Melihat event
+- Melihat galeri
+- Mengisi ulasan
+- Melakukan pemesanan tiket
+  
+2. Admin
+
+Admin memiliki akses khusus untuk mengelola seluruh data pada website.
+
+Hak Akses:
+
+- Login ke sistem
+- Menambah data informasi
+- Mengedit data
+- Menghapus data
+- Mengelola ulasan pengunjung
+- Mengelola data tiket dan fasilitas
+
+# Fitur Website  
 
 1. Beranda
    
@@ -82,9 +148,23 @@ Fungsi:
 
 # Widget Yang Digunakan
 
+- Navbar
+- Card
+- Form Input
+- Button
+- Image Gallery
+- QR Code Generator
+- Kalender (Calendar Widget)
+
 # Teknologi yang Digunakan
 
-# Package
+- HTML 
+- CSS
+- JavaScript 
+- PHP 
+- MySQL
+
+# Package 
 
 # Struktur Folder Project
 
