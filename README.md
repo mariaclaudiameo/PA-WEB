@@ -1,18 +1,18 @@
-# 🌿 Website Informasi Pemancingan Kebun Ndesa Tanah Merah
+#   Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
-## 👥 Tim Pengembang Website
+##   Tim Pengembang Website
 
-| 👤 Nama              | 🎓 NIM       |
+|   Nama           |   NIM       |
 |--------------------|-------------|
+| Ahmad Qomarul A.   | 2409116108  |
+| Jihan Alya Naflah  | 2409116082  |
 | Maria Claudia Meo  | 2409116108  |
-| Nama Anggota 2     | 2409xxxxxx  |
-| Nama Anggota 3     | 2409xxxxxx  |
-| Nama Anggota 4     | 2409xxxxxx  |
-| Nama Anggota 5     | 2409xxxxxx  |
+| Vebronia Vitania L.| 2409116112  |
+| Marza Hanaya M.G   | 24091161103 |
 
 ---
 
-## 📌 Deskripsi Website
+##   Deskripsi Website
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -32,7 +32,7 @@ Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promos
 
 ---
 
-## 🎯 Tujuan
+##   Tujuan
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -46,7 +46,7 @@ Selain sebagai media informasi, website ini juga berfungsi sebagai sarana promos
 
 ---
 
-## 🚀 Fitur Pengembangan
+##   Fitur Pengembangan
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -96,12 +96,12 @@ Tersedia kalender panen buah.
 
 ---
 
-## 👥 Role & Hak Akses
+##   Role & Hak Akses
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
 
-### 👤 User (Pengunjung)
+###   User (Pengunjung)
 
 Hak akses:
 - Melihat informasi Kebun Ndesa  
@@ -115,7 +115,7 @@ Hak akses:
 
 <br>
 
-### 🛠️ Admin
+###   Admin
 
 Hak akses:
 - Login ke sistem  
@@ -129,18 +129,18 @@ Hak akses:
 
 ---
 
-## 🧩 Fitur Website
+##   Fitur Website
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
 
-### 🏠 Beranda
+###   Beranda
 - Informasi umum Kebun Ndesa  
 - Navigasi ke halaman lain  
 
 <br>
 
-### 🎣 Wisata
+###   Wisata
 - Daftar wisata  
 - Harga tiket  
 - Paket bundling  
@@ -148,25 +148,25 @@ Hak akses:
 
 <br>
 
-### 🍉 Musim Buah
+###   Musim Buah
 - Informasi buah panen  
 - Kalender panen  
 
 <br>
 
-### 🎉 Event
+###   Event
 - Informasi event  
 - Detail event  
 - Pendaftaran event  
 
 <br>
 
-### 🖼️ Galeri
+###   Galeri
 - Dokumentasi foto  
 
 <br>
 
-### 📞 Kontak
+###   Kontak
 - Informasi pengelola  
 - Form ulasan  
 
@@ -174,7 +174,7 @@ Hak akses:
 
 ---
 
-## 🧱 Widget Yang Digunakan
+##   Widget Yang Digunakan
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -191,7 +191,7 @@ Hak akses:
 
 ---
 
-## 💻 Teknologi yang Digunakan
+##   Teknologi yang Digunakan
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -206,7 +206,7 @@ Hak akses:
 
 ---
 
-## 📦 Package
+##   Package
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -217,7 +217,7 @@ Hak akses:
 
 ---
 
-## 📁 Struktur Folder Project
+##   Struktur Folder Project
 <details>
 <summary>Klik untuk lihat detail</summary>
 <br>
@@ -256,3 +256,6 @@ project-root/
 └── includes/                 
     ├── header.php
     └── footer.php
+
+
+
