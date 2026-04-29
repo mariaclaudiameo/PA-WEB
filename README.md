@@ -257,43 +257,25 @@ project-root/
     ├── header.php
     └── footer.php
 
-
 ---
 
 ##   Tampilan Website
-<details>
-<summary>Klik untuk lihat detail</summary>
-<br>
 
-###   Halaman Beranda  
+### 🏠 Halaman Beranda  
 ![Beranda](assets/images/beranda.png)
-
-<img width="1896" height="914" alt="image" src="https://github.com/user-attachments/assets/b5787e0a-5f1b-4aa3-91bc-34aada2bcc96" />
-
-<br>
 
 ### 🎣 Halaman Wisata  
 ![Wisata](assets/images/wisata.png)
 
-<br>
-
 ### 🍉 Halaman Musim Buah  
 ![Musim Buah](assets/images/musimbuah.png)
-
-<br>
 
 ### 🎉 Halaman Event  
 ![Event](assets/images/event.png)
 
-<br>
-
 ### 🖼️ Halaman Galeri  
 ![Galeri](assets/images/galeri.png)
 
-<br>
-
 ### 📞 Halaman Kontak  
 ![Kontak](assets/images/kontak.png)
-
-</details>
 
