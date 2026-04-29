@@ -1,5 +1,15 @@
 # 🌿 Website Informasi Pemancingan Kebun Ndesa Tanah Merah
 
+## 👥 Tim Pengembang Website
+
+| 👤 Nama              | 🎓 NIM       |
+|--------------------|-------------|
+| Maria Claudia Meo  | 2409116108  |
+| Nama Anggota 2     | 2409xxxxxx  |
+| Nama Anggota 3     | 2409xxxxxx  |
+| Nama Anggota 4     | 2409xxxxxx  |
+| Nama Anggota 5     | 2409xxxxxx  |
+
 ---
 
 ## 📌 Deskripsi Website
